@@ -1,0 +1,23 @@
+h3{
+	font-family: tahoma;
+	color: #191970;
+	text-align: center;
+	position: center;
+}
+
+fieldset{
+	display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px;
+    border-color: black;		
+}
+
+input{
+	position: center;
+
+}
